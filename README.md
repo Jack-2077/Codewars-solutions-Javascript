@@ -1,7 +1,7 @@
 # Codewars Solutions (Javascript)
 | kyu | Codewars Kata | My Solutions |
 | --- | --- | --- |
-| 7 | [List Filtering](https://www.codewars.com/kata/53dbd5315a3c69eed20002dd) | [ListFiltering.js](https://github.com/Jack-2077/Codewars-solutions-Shell/blob/main/7-kyu/FoldingYourWayToTheMoon.sh) |
+| 7 | [List Filtering](https://www.codewars.com/kata/53dbd5315a3c69eed20002dd) | [ListFiltering.js](https://github.com/Jack-2077/Codewars-solutions-Javascript/blob/main/7-kyu/ListFiltering.js) |
 
 ## Kata Ranking (kyu)
 *source: [Codewars Wiki Honor & Ranks](https://github.com/Codewars/codewars.com/wiki/Honor-&-Ranks) and [Codewars Wiki Kata Ranking](https://github.com/Codewars/codewars.com/wiki/Kata-Ranking)*
