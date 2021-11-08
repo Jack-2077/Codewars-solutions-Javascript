@@ -1,14 +1,7 @@
 # Codewars Solutions (Javascript)
 | kyu | Codewars Kata | My Solutions |
 | --- | --- | --- |
-| 7 | [Folding your way to the moon](https://www.codewars.com/kata/58f0ba42e89aa6158400000e) | [FoldingYourWayToTheMoon.sh](https://github.com/Jack-2077/Codewars-solutions-Shell/blob/main/7-kyu/FoldingYourWayToTheMoon.sh) |
-| 7 | [Disemvowel Trolls](https://www.codewars.com/kata/52fba66badcd10859f00097e) | [DisemvowelTrolls.sh](https://github.com/Jack-2077/Codewars-solutions-Shell/blob/main/7-kyu/DisemvowelTrolls.sh) |
-| 8 | [Keep up the hoop](https://www.codewars.com/kata/55cb632c1a5d7b3ad0000145) | [KeepUpTheHoop.sh](https://github.com/Jack-2077/Codewars-solutions-Shell/blob/main/8%20kyu/KeepUpTheHoop.sh) |
-| 8 | [Beginner Series #2 Clock](https://www.codewars.com/kata/55f9bca8ecaa9eac7100004a) | [Clock.sh](https://github.com/Jack-2077/Codewars-solutions-Shell/blob/main/8-kyu/Clock.sh) |
-| 8 | [Remove String Spaces](https://www.codewars.com/kata/57eae20f5500ad98e50002c5) | [RemoveStringSpaces.sh](https://github.com/Jack-2077/Codewars-solutions-Shell/blob/main/8-kyu/RemoveStringSpaces.sh) |
-| 8 | [Grasshopper - Summation](https://www.codewars.com/kata/55d24f55d7dd296eb9000030) | [Summation.sh](https://github.com/Jack-2077/Codewars-solutions-Shell/blob/main/8-kyu/Summation.sh) |
-| 8 | [Keep Hydrated!](https://www.codewars.com/kata/582cb0224e56e068d800003c) | [KeepHydrated.sh](https://github.com/Jack-2077/Codewars-solutions-Shell/blob/main/8-kyu/KeepHydrated.sh) |
-| 8 | [Even or Odd](https://www.codewars.com/kata/53da3dbb4a5168369a0000fe) | [EvenorOdd.sh](https://github.com/Jack-2077/Codewars-solutions-Shell/blob/main/8-kyu/EvenorOdd.sh) |
+| 7 | [List Filtering](https://www.codewars.com/kata/53dbd5315a3c69eed20002dd) | [ListFiltering.js](https://github.com/Jack-2077/Codewars-solutions-Shell/blob/main/7-kyu/FoldingYourWayToTheMoon.sh) |
 
 ## Kata Ranking (kyu)
 *source: [Codewars Wiki Honor & Ranks](https://github.com/Codewars/codewars.com/wiki/Honor-&-Ranks) and [Codewars Wiki Kata Ranking](https://github.com/Codewars/codewars.com/wiki/Kata-Ranking)*
