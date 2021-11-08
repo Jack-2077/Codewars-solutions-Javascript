@@ -1,4 +1,4 @@
-# Codewars Solutions (Shell)
+# Codewars Solutions (Javascript)
 | kyu | Codewars Kata | My Solutions |
 | --- | --- | --- |
 | 7 | [Folding your way to the moon](https://www.codewars.com/kata/58f0ba42e89aa6158400000e) | [FoldingYourWayToTheMoon.sh](https://github.com/Jack-2077/Codewars-solutions-Shell/blob/main/7-kyu/FoldingYourWayToTheMoon.sh) |
