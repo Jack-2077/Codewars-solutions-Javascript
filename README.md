@@ -58,4 +58,11 @@ At this level the kata will start to include more advanced algorithmic challenge
 * Basic Design Patterns
 * Complex Regular Expressions
 
+### **7 kyu** kata represent a beginner programming level.
+
+At this level the kata will generally challenge users on their core language and API reference knowledge. Tasks such as:
+* Iterating arrays and returning a subset of values
+* Basic data type manipulations
+* Basic functional or object-oriented concepts
+* Basic Regular Expressions
 
