@@ -4,3 +4,5 @@ function digitize(n) {
   [...n + ''].map(item => arr.push(+item));
   return arr.reverse();
 }
+
+//return String(n).split('').map(Number).reverse()
