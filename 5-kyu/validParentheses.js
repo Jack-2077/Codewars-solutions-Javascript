@@ -9,3 +9,12 @@ function validParentheses(parens){
   
   return n === 0;
 }
+
+
+function validParentheses(v){
+  while(v.includes("()")){
+    v = v.replace("()","")
+  }
+  return v.length===0
+}
+
